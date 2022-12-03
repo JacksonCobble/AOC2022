@@ -26,6 +26,9 @@
     <ClInclude Include="Day_Functions\Day_2.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Day_Functions\Day_3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="Input_Data\Data.txt">
@@ -35,6 +38,9 @@
       <Filter>Resource Files</Filter>
     </Text>
     <Text Include="Input_Data\input2.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Input_Data\input3.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>

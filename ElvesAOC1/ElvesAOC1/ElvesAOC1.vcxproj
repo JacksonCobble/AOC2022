@@ -144,11 +144,13 @@
   <ItemGroup>
     <ClInclude Include="Day_Functions\Day_1.h" />
     <ClInclude Include="Day_Functions\Day_2.h" />
+    <ClInclude Include="Day_Functions\Day_3.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="Input_Data\Data.txt" />
     <Text Include="Input_Data\input1.txt" />
     <Text Include="Input_Data\input2.txt" />
+    <Text Include="Input_Data\input3.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
