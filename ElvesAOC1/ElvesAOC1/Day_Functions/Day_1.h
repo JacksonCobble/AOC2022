@@ -45,7 +45,9 @@ In case the Elves get hungry and need extra snacks, they need to know which Elf 
 are being carried by the Elf carrying the most Calories. In the example above, this is 24000 (carried by the fourth Elf).
 
 Find the Elf carrying the most Calories. How many total Calories is that Elf carrying?
+*/
 
+/*
 --- Part Two ---
 By the time you calculate the answer to the Elves' question, they've already realized that the Elf carrying the most Calories
 of food might eventually run out of snacks.
@@ -57,7 +59,6 @@ In the example above, the top three Elves are the fourth Elf (with 24000 Calorie
 then the fifth Elf (with 10000 Calories). The sum of the Calories carried by these three elves is 45000.
 
 Find the top three Elves carrying the most Calories. How many Calories are those Elves carrying in total?
-
 */
 
 void Day1()

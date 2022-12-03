@@ -51,7 +51,9 @@ The third round is a draw with both players choosing Scissors, giving you a scor
 In this example, if you were to follow the strategy guide, you would get a total score of 15 (8 + 1 + 6).
 
 What would your total score be if everything goes exactly according to your strategy guide?
+*/
 
+/*
 --- Part Two ---
 The Elf finishes helping with the tent and sneaks back over to you. "Anyway, the second column says how the 
 round needs to end: X means you need to lose, Y means you need to end the round in a draw, and Z means you 
