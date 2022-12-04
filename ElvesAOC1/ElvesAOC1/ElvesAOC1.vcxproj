@@ -142,6 +142,7 @@
     <ClCompile Include="AOC2022.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Day_Functions\Day_4.h" />
     <ClInclude Include="Day_Functions\Day_1.h" />
     <ClInclude Include="Day_Functions\Day_2.h" />
     <ClInclude Include="Day_Functions\Day_3.h" />
@@ -151,6 +152,7 @@
     <Text Include="Input_Data\input1.txt" />
     <Text Include="Input_Data\input2.txt" />
     <Text Include="Input_Data\input3.txt" />
+    <Text Include="Input_Data\input4.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
